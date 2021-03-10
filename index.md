@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## IA & SECURITY
 
 You can use the [editor on GitHub](https://github.com/securitylab-repository/TPS-IA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
