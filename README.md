@@ -1,8 +1,10 @@
 # TPS-IA
 
 ```mermaid
-sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
-    John -->> Bob : Thanks !
+mindmap
+    Root
+        A[A]
+        :::urgent large
+        B(B)
+        C
 ```
