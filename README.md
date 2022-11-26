@@ -1,9 +1,9 @@
 # TPS-IA
 ```mermaid
 mindmap
-    Root
+    Root(toto)
         A
             B
             c
             
- ```
+```
