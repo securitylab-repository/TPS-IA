@@ -1,9 +1,8 @@
 # TPS-IA
+
 ```mermaid
-mindmap
-    Root(toto)
-        A
-            B
-            c
-            
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    John -->> Bob : Thanks !
 ```
